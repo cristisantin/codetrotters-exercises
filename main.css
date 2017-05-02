@@ -1,0 +1,35 @@
+
+body {
+background-color: #FFFFFF;
+}
+
+.hackernews {
+  background-color: #000FFF
+}
+/* si le añado una coma, y hago la clase en el codigo, pues tengo los mismos elementos.
+Los ids eran únicos y clases pueden ser varias */
+
+#hacker  {
+  font-size: 20pt;
+  font-family: Helvetica;
+}
+
+#designer {
+  font-size: 20pt;
+  font-family: Times;
+  color: black;
+  padding: 5px;
+}
+
+#dribble   {
+  font-size: 20pt;
+  font-family: "Book Antiqua";
+  color: black;
+  padding: 5px;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+/* si solamente pongo un valor, le aplica el mismo a todo*/
